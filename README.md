@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mí (Español)
 
-- 💻 Desarrollador **full-stack** apasionado por construir soluciones web **eficientes y escalables**.  
+- 💻 Desarrollador **full-stack Jr** apasionado por construir soluciones web **eficientes y escalables**.  
 - 📱 Experto en el desarrollo de **aplicaciones móviles y web** para empresas.  
 - 🛠️ Experiencia en **Python, JavaScript, React, Node.js y Django**.  
 - 🌐 Abierto a colaborar en **proyectos tecnológicos innovadores**.
